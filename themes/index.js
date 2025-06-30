@@ -462,6 +462,16 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  cute_pink:{
+    title_color: "ffafcc",
+    text_color: "bde0fe",
+    icon_color: "bde0fe",
+    border_color: "ffc8dd",
+    bg_color: "ffe5ec",
+  },
+
+
+  
 };
 
 export default themes;
